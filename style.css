@@ -479,6 +479,10 @@ nav.show ul li a {
 }
 
 /*=== CLASS ===========================================*/
+#class {
+  overflow: hidden;
+}
+
 #class .image {
   position: relative;
   
